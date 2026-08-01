@@ -6,3 +6,5 @@ Generate Fibonacci sequence up to N terms in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `sequence.py`
+
+*Initialized by pranavxjoshix123 workspace automation.*
